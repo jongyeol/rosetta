@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+	xmlns:android="http://schemas.android.com/apk/res/android"
+	android:layout_width="wrap_content"
+	android:layout_height="wrap_content"
+	android:orientation="vertical"
+	>
+	<TextView
+		android:id="@+id/rosetta_sample_text_view"
+		android:layout_width="wrap_content"
+		android:layout_height="100px"
+		/>
+	<Button
+		android:layout_width="wrap_content"
+		android:layout_height="wrap_content"
+		android:text="Callback Test"
+		android:onClick="onClickCallbackTest"
+		/>
+</LinearLayout>

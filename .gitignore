@@ -1,0 +1,17 @@
+
+*.orig
+*.swp
+*.bak
+*.o
+._*
+*.pyc
+
+bin/*
+gen/*
+libs/*
+
+jni/callback.cpp
+jni/callback.h
+jni/rosetta.cpp
+
+
